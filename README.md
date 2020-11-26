@@ -13,9 +13,13 @@ OpenMVServer.py --> Dynamic ROI for OpenMV (run on PC)
 WebcamROI.py --> Dyanmic ROI for webcam
 
 
+
 **DOWNLOADS**
 ----------------
-shape_predictor_5_face_landmarks.dat
-shape_predictor_68_face_landmarks.dat
-yolov3-wider_16000.weights
-yolov4-tiny.weights
+shape_predictor_5_face_landmarks.dat (https://github.com/davisking/dlib-models)
+
+shape_predictor_68_face_landmarks.dat (https://github.com/davisking/dlib-models)
+
+yolov3-wider_16000.weights (https://github.com/sthanhng/yoloface/blob/master/yoloface.py)
+
+yolov4-tiny.weights (https://github.com/hunglc007/tensorflow-yolov4-tflite)
